@@ -28,7 +28,7 @@
 			<ARMCPU>cortex-m4</ARMCPU>
 			<InstructionSet>THUMB</InstructionSet>
 			<ARMFPU>fpv4-sp-d16</ARMFPU>
-			<FloatABI>soft</FloatABI>
+			<FloatABI>hard</FloatABI>
 		</ToolchainSettingsContainer>
 	</ItemDefinitionGroup>
 </Project>

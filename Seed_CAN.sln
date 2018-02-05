@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Seed_CAN", "Seed_CAN\Seed_CAN.vcxproj", "{E473BF9F-D02F-4E8E-9968-86A6B2DEF52D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|VisualGDB = Debug|VisualGDB
+		Release|VisualGDB = Release|VisualGDB
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E473BF9F-D02F-4E8E-9968-86A6B2DEF52D}.Debug|VisualGDB.ActiveCfg = Debug|VisualGDB
+		{E473BF9F-D02F-4E8E-9968-86A6B2DEF52D}.Debug|VisualGDB.Build.0 = Debug|VisualGDB
+		{E473BF9F-D02F-4E8E-9968-86A6B2DEF52D}.Release|VisualGDB.ActiveCfg = Release|VisualGDB
+		{E473BF9F-D02F-4E8E-9968-86A6B2DEF52D}.Release|VisualGDB.Build.0 = Release|VisualGDB
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17414779-AE61-48D9-BAA2-090D2A43D8B3}
+	EndGlobalSection
+EndGlobal
